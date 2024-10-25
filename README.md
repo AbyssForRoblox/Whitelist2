@@ -1,2 +1,2 @@
 # whitelist
-whitelist yes, (ps void, wl was broken so stav fixed it 😈)
+whitelist yes, (blankvoid is a kind man)
